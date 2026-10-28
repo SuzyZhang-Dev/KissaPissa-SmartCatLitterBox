@@ -1,5 +1,4 @@
 # Requirement Specification
-
 ## Requirement IDs
  Functional requirements start with F and non-functional requirements with NF. 
  The first number names the group, and the second number is the item within that group. 
