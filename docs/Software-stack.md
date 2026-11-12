@@ -36,5 +36,10 @@
         - [ ] Sending MQTT to an optional HomeAss
     - [ ] Control device feedback via the RGB LED states.
 
+## Technical requirements
+- Frontend is implemented using ReactJS + Typescript + Vite
+- Backend is implemented using Python + FastAPI
+- Storage and database is managed by SQLite.
+
 ## Appendix
 HA  :   Home Assistent
