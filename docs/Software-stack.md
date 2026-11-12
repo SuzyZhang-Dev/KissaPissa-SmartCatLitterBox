@@ -39,6 +39,7 @@
 ## Technical requirements
 - Frontend is implemented using ReactJS + Typescript + Vite
 - Backend is implemented using Python + FastAPI
+    - [ ] We need a Python / Pip venv for the Python backend
 - Storage and database is managed by SQLite.
 
 ## Appendix
